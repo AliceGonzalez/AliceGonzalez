@@ -2,6 +2,7 @@
 
 <!--
 **AliceGonzalez/AliceGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![python](https://github.com/user-attachments/assets/755d0eaf-1e3a-411d-b3ed-e3c7f99c6952)
 
 Here are some ideas to get you started:
 
