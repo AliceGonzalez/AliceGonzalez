@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/user-attachments/assets/ac283aa1-fa3a-4c8b-9fed-f40ee538252e" alt=about" width="75"/>
+<img src="https://github.com/user-attachments/assets/ac283aa1-fa3a-4c8b-9fed-f40ee538252e" alt="about" width="75"/>
 
 <img src="https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482" alt="python" width="75"/>
 <img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="75"/>
