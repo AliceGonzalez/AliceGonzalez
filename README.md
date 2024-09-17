@@ -1,22 +1,16 @@
 ## Hi there 👋
 <img src="https://github.com/user-attachments/assets/1fc546b0-e707-47a4-9df4-ef4c484c0f7b" alt="317755_badge_html_html5_achievement_award_icon" width="50"/>
 <img src="https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482" alt="python" width="50"/>
+<img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="100"/>
+<img src="https://github.com/user-attachments/assets/3d487c30-ef86-4022-9646-ea5b1fc78fd3" alt="spring" width="100"/>
+<img src="https://github.com/user-attachments/assets/e7db53c7-c5f8-41ba-b6e6-e2c065be92ff" alt="node" width="100"/>
+<img src="https://github.com/user-attachments/assets/fd214d95-5075-4e48-b002-a65c3d771646" alt="js" width="100"/>
+<img src="https://github.com/user-attachments/assets/4172c794-15d2-477d-b70d-7da4e78f3cf0" alt="qsl" width="100"/>
+<img src="https://github.com/user-attachments/assets/7f2f9648-5e5f-4bad-81b5-fc3f77c7a584" alt="java" width="100"/>
+<img src="https://github.com/user-attachments/assets/20df17dc-7a94-44be-a935-f2251316009f" alt="react" width="100"/>
+<img src="https://github.com/user-attachments/assets/95ccf534-27cc-4052-a9ad-74e20175c675" alt="github" width="100"/>
 
 
-<!--
-**AliceGonzalez/AliceGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![python](https://github.com/user-attachments/assets/755d0eaf-1e3a-411d-b3ed-e3c7f99c6952)
-
-Here are some ideas to get you started:![java](https://github.com/user-attachments/assets/bfd8dbaf-08d9-4456-b7b0-bcf098c081e2)
-![qsl](https://github.com/user-attachments/assets/3a34fcfc-1e25-40ee-ac69-a722e4261cac)
-![js](https://github.com/user-attachments/assets/92101af6-e492-42d2-b86a-833819352fe0)
-![react](https://github.com/user-attachments/assets/d6470771-64f4-468f-a3ca-446fc94c96bb)
-![node](https://github.com/user-attachments/assets/1fe9f24f-459a-4d56-8409-e0d7a3cb0575)
-![github](https://github.com/user-attachments/assets/5cf6983f-d0e2-42a2-a2d6-caaba4957d66)
-![html](https://github.com/user-attachments/assets/e66bc605-03a0-4a9b-91c9-826673af7c9a)
-![spring](https://github.com/user-attachments/assets/82741a98-9bdb-4c2c-a8fc-20b3eda34869)
-![css](https://github.com/user-attachments/assets/4ff59863-015d-4415-87af-7ee072c9ceed)
-![python](https://github.com/user-attachments/assets/8b18ead8-5c05-4765-9b41-70b2e7edd8bd)
 
 
 - 🔭 I’m currently working on ...
