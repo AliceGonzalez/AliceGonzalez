@@ -6,7 +6,7 @@ As a full-stack software developer with expertise in both front-end and back-end
 <br/>
 <br/>
                                       ╒═════════════════╕<br/>
-                                        LANGUAGE & TOOLS<br/>
+                                         LANGUAGE & TOOLS<br/>
                                       ╘═════════════════╛
 
 <br/>
