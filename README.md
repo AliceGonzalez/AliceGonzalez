@@ -1,4 +1,14 @@
 ## Hi there 👋
+
+           _ _             _____                      _          
+     /\   | (_)           / ____|                    | |         
+    /  \  | |_  ___ ___  | |  __  ___  _ __  ______ _| | ___ ____
+   / /\ \ | | |/ __/ _ \ | | |_ |/ _ \| '_ \|_  / _` | |/ _ \_  /
+  / ____ \| | | (_|  __/ | |__| | (_) | | | |/ / (_| | |  __// / 
+ /_/    \_\_|_|\___\___|  \_____|\___/|_| |_/___\__,_|_|\___/___|
+                                                                 
+                                                                 
+
 <img src="https://github.com/user-attachments/assets/1fc546b0-e707-47a4-9df4-ef4c484c0f7b" alt="317755_badge_html_html5_achievement_award_icon" width="75"/>
 <img src="https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482" alt="python" width="75"/>
 <img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="75"/>
