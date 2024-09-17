@@ -1,6 +1,7 @@
 ## Hi there 👋
-![317755_badge_html_html5_achievement_award_icon](https://github.com/user-attachments/assets/1fc546b0-e707-47a4-9df4-ef4c484c0f7b)
-![python](https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482)
+<img src="https://github.com/user-attachments/assets/1fc546b0-e707-47a4-9df4-ef4c484c0f7b" alt="317755_badge_html_html5_achievement_award_icon" width="50"/>
+<img src="https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482" alt="python" width="50"/>
+
 
 <!--
 **AliceGonzalez/AliceGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
