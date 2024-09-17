@@ -4,7 +4,7 @@
 
 <br/>
 
-Languages & Tools:
+Languages & Tools:<br/>
 <img src="https://github.com/user-attachments/assets/7552fa79-664e-4610-b516-d516d44d2482" alt="python" width="75"/>
 <img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="75"/>
 <img src="https://github.com/user-attachments/assets/3d487c30-ef86-4022-9646-ea5b1fc78fd3" alt="spring" width="75"/>
