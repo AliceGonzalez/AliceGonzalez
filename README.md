@@ -18,5 +18,5 @@ As a full-stack software developer with expertise in both front-end and back-end
 <img src="https://github.com/user-attachments/assets/7f2f9648-5e5f-4bad-81b5-fc3f77c7a584" alt="java" width="75"/>
 <img src="https://github.com/user-attachments/assets/20df17dc-7a94-44be-a935-f2251316009f" alt="react" width="75"/>
 <img src="https://github.com/user-attachments/assets/95ccf534-27cc-4052-a9ad-74e20175c675" alt="github" width="75"/>
-![PHP icon](https://github.com/user-attachments/assets/0d7243af-75d5-4463-a853-52cea1fc1ac5)
+<img src="https://github.com/user-attachments/assets/0d7243af-75d5-4463-a853-52cea1fc1ac5" alt="php" width="75"/>
 
